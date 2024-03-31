@@ -1,5 +1,3 @@
-[![MasterHead]	https://e0.pxfuel.com/wallpapers/74/711/desktop-wallpaper-purple-plain-violet-and-white.jpg
-
 <h1 align="center">Hi 👋, I'm Sevcan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
